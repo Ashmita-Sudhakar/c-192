@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swimming Pool 3D Scene
+* source:	https://sketchfab.com/3d-models/swimming-pool-3d-scene-f45154da5a524dff9a2e94faa97a205e
+* author:	IPfuentes (https://sketchfab.com/IPfuentes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swimming Pool 3D Scene" (https://sketchfab.com/3d-models/swimming-pool-3d-scene-f45154da5a524dff9a2e94faa97a205e) by IPfuentes (https://sketchfab.com/IPfuentes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
